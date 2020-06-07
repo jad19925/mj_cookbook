@@ -10,12 +10,11 @@
 
 title: Jacob and Makayla's Family Cookbook  # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: The Red-Star Cookbook.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  A collection of our favorite recipes from friends,
+  family, and the internet.
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://jad19925.github.io'
@@ -31,8 +30,8 @@ twitter:
   username: JacobDahleen            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Jacob Dahleen                  # it will shows as the copyright owner in Footer
+  # email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/JacobDahleen      # change to your twitter homepage
