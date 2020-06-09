@@ -3,9 +3,9 @@ title: About
 
 # The About page
 # v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
+# https://github.com/jad19925/mj_cookbook
+# © 2020-2020 Jacob Dahleen
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+A collection of our favorite recipes from family, friends, and the internet.
