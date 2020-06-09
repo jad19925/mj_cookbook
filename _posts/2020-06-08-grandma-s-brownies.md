@@ -14,7 +14,7 @@ A simple brownie recipe that is delicious. They have received great reviews for 
 - 2 cups sugar
 - 4 eggs
 - 4 squares (4 oz) unsweetened chocolate, melted
-- 1 &frac13; cups flour
+- 1 &#8531; cups flour
 - 1 tsp baking powder
 - &frac12; tsp salt
 - 1 tsp vanilla
