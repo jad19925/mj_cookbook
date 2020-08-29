@@ -25,7 +25,7 @@ toc: true
 - &frac14; cup flour
 - &frac12; tsp salt
 - 2 cups milk
-- 1 &frac14; (6oz) shredded cheddar cheese
+- 1 &frac12; (6oz) shredded cheddar cheese
 - &frac34; cup dry bread crumbs
 
 # Steps
