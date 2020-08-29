@@ -13,7 +13,7 @@ A simple brownie recipe that is delicious. They have received great reviews for 
 - 2 sticks of butter (or margarine)
 - 2 cups sugar
 - 4 eggs
-- 4 squares (4 oz) unsweetened chocolate, melted
+- 4 squares (4 oz) Baker's Brand unsweetened chocolate, melted
 - 1 &#8531; cups flour
 - 1 tsp baking powder
 - &frac12; tsp salt
@@ -31,6 +31,3 @@ A simple brownie recipe that is delicious. They have received great reviews for 
 1. Bake at 350&deg; F for 20-25 min
 1. Sift powdered sugar on top
 1. Cool then cut
-
-# Notes
-I usually use Baker's brand chocolate when I make the brownies
