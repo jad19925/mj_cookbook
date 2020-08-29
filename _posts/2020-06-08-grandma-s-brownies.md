@@ -1,5 +1,5 @@
 ---
-title: Grandma S's Brownies
+title: Grandma Shelby's Brownies
 author: Jacob Dahleen
 date: 2020-06-08 20:28:00 -0500
 categories: [Dessert, Bars]
